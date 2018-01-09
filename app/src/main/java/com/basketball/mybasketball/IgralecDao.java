@@ -4,8 +4,9 @@ import android.arch.persistence.room.*;
 
 import java.util.List;
 
+@Dao
 public interface IgralecDao {
-    @Query("SELECT * FROM user")
+    @Query("SELECT * FROM Igralec")
     List<Igralec> getAll();
 
     @Insert
