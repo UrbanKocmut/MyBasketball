@@ -27,7 +27,9 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".InputActivity"></activity>
+        <activity android:name=".InputActivity" />
+        <activity android:name=".MatchInput" />
+        <activity android:name=".Confirmation"></activity>
     </application>
 
 </manifest>
