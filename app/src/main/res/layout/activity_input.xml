@@ -54,30 +54,30 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
         android:text="Button"
-        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="96dp"
         tools:text="ADD PLAYER" />
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
         android:text="Button"
-        tools:layout_editor_absoluteX="202dp"
+        tools:layout_editor_absoluteX="207dp"
         tools:layout_editor_absoluteY="96dp"
         tools:text="REMOVE PLAYER" />
 
     <EditText
         android:id="@+id/editText2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="352dp"
+        android:layout_height="308dp"
         android:ems="10"
         android:inputType="textMultiLine"
-        tools:layout_editor_absoluteX="51dp"
-        tools:layout_editor_absoluteY="185dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="187dp"
         tools:text="players" />
 
 </android.support.constraint.ConstraintLayout>

@@ -11,7 +11,7 @@
         android:layout_width="368dp"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="59dp" />
+        tools:layout_editor_absoluteY="16dp" />
 
     <EditText
         android:layout_width="140dp"
@@ -25,7 +25,7 @@
 
     <EditText
         android:id="@+id/editText3"
-        android:layout_width="143dp"
+        android:layout_width="140dp"
         android:layout_height="54dp"
         android:ems="10"
         android:inputType="textPersonName"
@@ -47,11 +47,11 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="335dp"
+        android:layout_height="61dp"
         android:text="Button"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="290dp"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="308dp"
         tools:text="CONFIRM" />
 
 </android.support.constraint.ConstraintLayout>
