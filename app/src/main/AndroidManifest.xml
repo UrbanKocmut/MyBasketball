@@ -29,7 +29,8 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".InputActivity" />
         <activity android:name=".MatchInput" />
-        <activity android:name=".Confirmation"></activity>
+        <activity android:name=".Confirmation" />
+        <activity android:name=".AdminPanel"></activity>
     </application>
 
 </manifest>
