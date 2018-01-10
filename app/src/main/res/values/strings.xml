@@ -3,6 +3,16 @@
 
     <string name="Teams">Ekipe</string>
     <string name="Match">Tekma</string>
+    <string name="team_card_img_dsc">Slika ekipe</string>
+    <string name="team_card_name_dsc">Ime ekipe</string>
+    <string name="team_card_score_dsc">Pike ekipe</string>
+    <string name="team_card_filler">TEST</string>
+    <string name="add_team_img">Slika</string>
+    <string name="add_team_name">Ime</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Preklici</string>
+    <string name="lastnik">by Urban Kocmut</string>
+
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password (optional)</string>
@@ -18,4 +28,7 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_login">Prijava</string>
     <string name="title_activity_teams">Teams</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
